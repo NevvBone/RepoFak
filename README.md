@@ -1,8 +1,8 @@
 # Przedmiot Fakultatywny
 Skład zespołu:
 
-Kacper Renkel
-Tomasz Milanowski
-Maciej Dylak
-Adrian Bachmura
-Nikodem Gronowski
+Kacper Renkel/n
+Tomasz Milanowski/n
+Maciej Dylak/n
+Adrian Bachmura/n
+Nikodem Gronowski/n
